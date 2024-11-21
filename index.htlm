@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="iconosdb.png" type="image/x-icon">
+    <title>SDB</title>
+</head>
+<body>
+    <link href="inicio.css" rel="stylesheet">
+    <img style="height: 200px;" src="iconosdb.png" alt="">
+    <h1>Salud Da Belleza (SDB)</h1>
+    <p>15 imagenes</p>
+    <div class="pie">
+    <p>Direccion:Callejon Longoria, Cd:Mexico, Estado:Tamaulipas</p>
+    <p>Telefono: 89993384563</p>
+    <p>facebook:SDB Salud Da Belleza</p>
+    <p>correo:saluddabellezasdb@gmail.com</p></div>
+</body>
+</html>
